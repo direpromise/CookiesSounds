@@ -1,0 +1,42 @@
+name: Upload Prebuilt Zip (Sounds)
+
+on:
+  push:
+    paths:
+      - 'CookiesSounds/**'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create CookiesSounds Zip
+        run: |
+          sudo apt-get install zip
+          cd CookiesSounds
+          zip -r ../CookiesSounds.zip icon.png manifest.json README.md BepInEx CHANGELOG.md
+      - id: pub
+        uses: ./
+        with:
+          namespace: ChocolateCookies
+          name: CookiesSounds
+          token: ${{ secrets.TS_KEY }}
+          description: |
+            🍪 [v47 & v49] Adds various 50+ randomized music/sound effects while respecting original game sounds! 🍪
+          version: v1.${{ github.run_number }}.0
+          community: lethal-company
+          repo: thunderstore.io
+          website: "https://creampies.wtf"
+          categories: |
+            mods
+            clientside
+            audio
+          # Check the correct format for dependencies in Thunderstore
+          deps: |
+            ChocolateCookies-CookiesSounds-1.${{ github.run_number }}.0
+          file: ./CookiesSounds.zip
+      - run: echo ${{ steps.pub.outputs.url }}

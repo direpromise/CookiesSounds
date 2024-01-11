@@ -41,6 +41,7 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Firesale Jingle
 - Alternate Firesale Jingle
 
+
 🌠 Earthbound:
 
 - Escargo Express at Your Service!
@@ -71,6 +72,16 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Alpha Omega (Game Over)
 
 - Tag Der Toten (Game Over)
+
+# 📻 Radar Booster:
+
+🌱🧟‍♂️ Planets vs. Zombies:
+
+- Crazy Dave Voice Lines (3 Short Lines)
+
+# 🛎 Bell:
+
+- Rare Bell Sound (5%)
 
 
 

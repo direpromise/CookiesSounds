@@ -41,6 +41,10 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Firesale Jingle
 - Alternate Firesale Jingle
 
+🌠 Earthbound:
+
+- Escargo Express at Your Service!
+
 
 # 🚀💔 Ship Ejection:
 

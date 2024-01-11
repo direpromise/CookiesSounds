@@ -1,3 +1,10 @@
+# Cookies Sounds 1.0.3
+
+- Added Ghost Girl Sounds: Deathcard Cabin (Reprise) [RARE]
+- Added Phone Sounds: World is Spinning (Intro) [RARE]
+- Added Phone Sounds: La Foule by Édith Piaf [RARE]
+
+
 # Cookies Sounds 1.0.2
 
 - Fixed issues with the dropship sounds (was only playing one of the tracks)

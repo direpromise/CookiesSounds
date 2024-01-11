@@ -1,7 +1,7 @@
 {
     "name": "CookiesSounds",
-    "version_number": "1.0.2",
-    "website_url": "",
+    "version_number": "1.0.3",
+    "website_url": "https://discord.gg/7r7RBpybVK",
     "description": "🍪 [v47 & v49] Adds various 50+ randomized music/sound effects while respecting original game sounds! 🍪",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",

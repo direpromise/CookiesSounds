@@ -83,6 +83,20 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 - Rare Bell Sound (5%)
 
+# 👻👧 Ghost Girl:
+
+🃏 Inscryption:
+
+- Deathcard Cabin (Reprise)
+
+# 📞 Phone:
+
+🎶 Music: 
+
+- World is Spinning (Intro) [RARE]
+
+- La Foule by Édith Piaf [RARE]
+
 
 
 👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)

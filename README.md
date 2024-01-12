@@ -89,13 +89,19 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 - Deathcard Cabin (Reprise)
 
-# 📞 Phone:
+# 📞 Phone Scrap:
 
 🎶 Music: 
 
 - World is Spinning (Intro) [RARE]
 
 - La Foule by Édith Piaf [RARE]
+
+# 🏃‍♀️ Escape Music:
+
+🟥 ROBLOX: Doors:
+
+- Here I come
 
 
 

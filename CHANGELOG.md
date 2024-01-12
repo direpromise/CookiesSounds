@@ -1,3 +1,10 @@
+# Cookies Sounds 1.0.4
+
+- Added Escape Music: Doors (ROBLOX)
+- Added PizzaTowerEscapeMusic as a dependency
+- Credits to [PizzaTowerEscapeMusic by BGN](https://thunderstore.io/c/lethal-company/p/BGN/PizzaTowerEscapeMusic/) for the scripting
+- Credits to [DoorsEscapeMusic]
+
 # Cookies Sounds 1.0.3
 
 - Added Ghost Girl Sounds: Deathcard Cabin (Reprise) [RARE]

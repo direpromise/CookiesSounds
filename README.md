@@ -4,6 +4,9 @@ This mod serves as a complementary audio expansion for the **Cookies Client Modp
 
 I plan to add more music/SFX into this mod from all sorts of games & movies, if you have a suggestion, please feel free to suggest it in our discord server!
 
+[![Ko-fi](https://img.shields.io/badge/Support-0%2C%20209%2C%200?style=for-the-badge&logo=kofi&logoColor=%23fc8803&link=https%3A%2F%2Fko-fi.com%2Fccchocolatecookies)](https://ko-fi.com/ccchocolatecookies)
+[<img src="https://i.imgur.com/Uv9Djbw.png" alt="Discord Server">](https://discord.gg/7r7RBpybVK)
+
 # 📝WHAT IT DOES:
 
 - It adds over 50+ randomized music jingles/sound effects to the game! 😳
@@ -117,4 +120,4 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 ## 💬 Support or Contact
 
-For inquiries, suggestions, or assistance, please refer to the [main modpack repository](https://github.com/direpromise/CookiesVisionModpack).
+For inquiries, suggestions, or assistance, please refer to the [main modpack repository](https://github.com/direpromise/CookiesVisionModpack) or [Our Discord Server](https://discord.gg/7r7RBpybV.

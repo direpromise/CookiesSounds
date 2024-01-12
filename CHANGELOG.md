@@ -1,3 +1,8 @@
+# Cookies Sounds 1.0.5
+
+- Updated README.md
+- New Discord!
+
 # Cookies Sounds 1.0.4
 
 - Added Escape Music: Doors (ROBLOX)

@@ -1,8 +1,8 @@
 {
     "name": "CookiesSounds",
-    "version_number": "1.0.5",
+    "version_number": "1.0.6",
     "website_url": "https://discord.gg/7r7RBpybVK",
-    "description": "🍪 [v47 & v49] Adds various 50+ randomized music/sound effects while respecting original game sounds! 🍪",
+    "description": "🍪 [v47 & v49] Adds many various randomized music/sound effects while respecting original game sounds! (open to sound/music suggestions on our discord!) 🍪",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "no00ob-LCSoundTool-1.4.0",

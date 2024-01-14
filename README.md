@@ -10,7 +10,7 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 # 📝WHAT IT DOES:
 
 - It adds over 50+ randomized music jingles/sound effects to the game! 😳
--  The mod does it's best to respect the game's original sounds, aiming not to replace but add more variety! 🎶
+- The mod does it's best to respect the game's original sounds, aiming not to replace but add more variety! 🎶
 - Ship Landing "Intro" like music. 🤩
 - More Dropship music. 🤑
 - More Ship Eject (fired) Music. 😭
@@ -91,6 +91,10 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 🃏 Inscryption:
 
 - Deathcard Cabin (Reprise)
+
+🐻 FNAF:
+
+- Clocks Chimes [25%]
 
 # 📞 Phone Scrap:
 

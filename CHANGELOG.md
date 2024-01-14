@@ -1,3 +1,15 @@
+# Cookies Sounds 1.0.6
+
+- Updated mod desc.
+- Added Bell Chime Ambience: Clocks Chimes (FNAF) (25%)
+- Lowered volume of IcecreamTruckV2-5 (firesale)
+- Renamed Dropship Sounds wav files for readability and increased/improved the custom sounds chances of playing
+- Renamed Bell Dinger Sounds wav files for readability
+- Renamed Phone Scrap Sounds wav files for readability
+- Renamed Landing Sounds wav files for readability
+- Renamed GhostGirl Sounds wav files for readability
+- From now on, all sound effects % chances will be more equally distributed unless I want to have a specific rare % chance, I will slowly but surely update, optimize & rename each sound file.
+
 # Cookies Sounds 1.0.5
 
 - Updated README.md

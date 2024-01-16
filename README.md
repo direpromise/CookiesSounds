@@ -112,9 +112,15 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 
 
-👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)
 
 👉 [Cookies Vision 👀 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+
+👉 [Cookies Moons 🌑 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMOONS/)
+
+👉 [Cookies Server 📠 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesServer/)
+
+👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
 
 ---
 

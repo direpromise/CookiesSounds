@@ -7,7 +7,7 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 [![Ko-fi](https://img.shields.io/badge/Support-0%2C%20209%2C%200?style=for-the-badge&logo=kofi&logoColor=%23fc8803&link=https%3A%2F%2Fko-fi.com%2Fccchocolatecookies)](https://ko-fi.com/ccchocolatecookies)
 [<img src="https://i.imgur.com/Uv9Djbw.png" alt="Discord Server">](https://discord.gg/7r7RBpybVK)
 
-# 📝WHAT IT DOES:
+# 📝 WHAT IT DOES:
 
 - It adds over 50+ randomized music jingles/sound effects to the game! 😳
 - The mod does it's best to respect the game's original sounds, aiming not to replace but add more variety! 🎶
@@ -16,6 +16,21 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - More Ship Eject (fired) Music. 😭
 
 # 👇 Currently added 👇
+
+
+# 🎵 Ambiance Music1:
+
+🎶 Misc:
+
+- Already Home
+
+# 🎵 Ambiance Music2:
+
+
+
+⚙ Factorio:
+
+- Beyond Factory Outskirts
 
 # 🚀💨 Ship Landing:
 
@@ -82,9 +97,30 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 - Crazy Dave Voice Lines (3 Short Lines)
 
+# 🎙 Company Mic:
+
+⭐ Brawl Stars:
+
+- Evil Rico Ultimate #6
+- Rico Ultimate #6
+- Rico Kill #7
+- Rico Start #6
+- R-T Kill #4
+- R-T Kill #3
+- R-T Kill #2
+- Sprout Kill #2
+- Sprout Start #3
+- Sprout Lead #1
+
 # 🛎 Bell:
 
 - Rare Bell Sound (5%)
+
+# 🆕 Level Up:
+
+⭐ Brawl Stars:
+
+- R-T Lead #8
 
 # 👻👧 Ghost Girl:
 
@@ -98,7 +134,7 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 # 📞 Phone Scrap:
 
-🎶 Music: 
+🎶 Misc: 
 
 - World is Spinning (Intro) [RARE]
 
@@ -110,8 +146,6 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 - Here I come
 
-
-
 👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)
 
 👉 [Cookies Vision 👀 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
@@ -121,6 +155,10 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 👉 [Cookies Server 📠 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesServer/)
 
 👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
+
+👉 [Cookies MoreCompany 💃 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMoreCompany/)
+
+👉 [Cookies Schizophrenia 😨 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSchizophrenia/)
 
 ---
 

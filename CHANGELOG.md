@@ -1,3 +1,15 @@
+# <span style="color:orange">Cookies Sounds 1.0.8</span>
+
+- Added Music Ambiance Music: Beyond Factory Outskirts [CUT TO TWO PARTS] (Factorio)
+- Added Mic Sounds: Sprout 3 SFX (Brawl Stars)
+- Added Mic Sounds: Rico 2 SFX (Brawl Stars)
+- Added Mic Sounds: R-T 4 SFX (Brawl Stars)
+- Added Level Up Sounds: R-T 1 SFX (Brawl Stars)
+- Added 4 Menu Music: (Inscryption)
+- Updated README.md
+- Reduced file size by a lot, now we use .ogg for sounds
+
+
 # <span style="color:orange">Cookies Sounds 1.0.7</span>
 
 - Added Ambient Music (1): Disasterpeace - Already Home (My Edit; 50%)

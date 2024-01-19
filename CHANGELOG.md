@@ -1,3 +1,19 @@
+# <span style="color:orange">Cookies Sounds 1.0.9</span>
+
+- **PLEASE: delete old files from old version of this mod, or simply create a fresh new profile on r2/thunderstore when installing new updates to fix any issues & clean old unused files**
+- For now sound % chance has been tempered with and increased for the worse (worse as in, it may cause some sound overlap occasionally when spamming sounds like Clownhorn), until LCSoundTool fixes this issue (which they will, confirmed, update 1.1.0 will address this)
+- Added Mid Day Sounds: Difficulty Bell (Risk of Rain)
+- Added Global Notification Sounds: Doll (Risk of Rain)
+- Added Item Charge Sounds: UI_3D_printer_process_01 (Risk of Rain 2)
+- Added Purchase Sounds: store_purchase (Cuphead)
+- Added Intro Company Speech: Best Friends (Battleblock Theater)
+- Added VoiceCry Sounds: 4 Witch Cries (Left 4 Dead 2)
+- Added Bell Dinger Sounds: mrp_util_vo_04 (Brawl Stars)
+- Added Terminal Enter Sounds: rt_start_vo_06 (Brawl Stars)
+- Added 4 Clownhorn Sounds: 4 Jester Voice Lines (Brawl Stars)
+- Added PlushieSqueeze Sounds: 3 Gus Voice Lines (Brawl Stars)
+- Updated README.md
+
 # <span style="color:orange">Cookies Sounds 1.0.8</span>
 
 - Added Music Ambiance Music: Beyond Factory Outskirts [CUT TO TWO PARTS] (Factorio)
@@ -7,13 +23,13 @@
 - Added Level Up Sounds: R-T 1 SFX (Brawl Stars)
 - Added 4 Menu Music: (Inscryption)
 - Updated README.md
-- Reduced file size by a lot, now we use .ogg for sounds
+- Reduced file size by a lot, now we use .ogg for soundsL
 
 
 # <span style="color:orange">Cookies Sounds 1.0.7</span>
 
 - Added Ambient Music (1): Disasterpeace - Already Home (My Edit; 50%)
-- Added Coilhead Sounds: Vine Boom (10%)
+- Added Coilhead Sounds: Vine Boom (10%)L
 
 # <span style="color:orange">Cookies Sounds 1.0.6</span>
 

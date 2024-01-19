@@ -1,6 +1,6 @@
 # 🍪 [WORKS WITH v47 & v49] Cookies Sounds - Client-Side Friendly, Vanilla Friendly 🍪
 
-This mod serves as a complementary audio expansion for the **Cookies Client Modpack** however feel free to use it independently! you may have to change config files in order to make it work in Vanilla servers.
+This mod serves as a complementary audio expansion for the **Cookies Client Modpack** however feel free to use it independently!
 
 I plan to add more music/SFX into this mod from all sorts of games & movies, if you have a suggestion, please feel free to suggest it in our discord server!
 
@@ -9,14 +9,13 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 # 📝 WHAT IT DOES:
 
-- It adds over 50+ randomized music jingles/sound effects to the game! 😳
+- It adds A TON of randomized music jingles/sound effects to the game! 😳
 - The mod does it's best to respect the game's original sounds, aiming not to replace but add more variety! 🎶
 - Ship Landing "Intro" like music. 🤩
 - More Dropship music. 🤑
 - More Ship Eject (fired) Music. 😭
 
 # 👇 Currently added 👇
-
 
 # 🎵 Ambiance Music1:
 
@@ -25,8 +24,6 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Already Home
 
 # 🎵 Ambiance Music2:
-
-
 
 ⚙ Factorio:
 
@@ -59,11 +56,9 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Firesale Jingle
 - Alternate Firesale Jingle
 
-
 🌠 Earthbound:
 
 - Escargo Express at Your Service!
-
 
 # 🚀💔 Ship Ejection:
 
@@ -112,9 +107,15 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Sprout Start #3
 - Sprout Lead #1
 
-# 🛎 Bell:
+# 🛎 Company Bell:
 
-- Rare Bell Sound (5%)
+🎶 Misc:
+
+- Harmonic Bell Sound (OC)
+
+⭐ Brawl Stars:
+
+- mrp_util_vo_04
 
 # 🆕 Level Up:
 
@@ -145,6 +146,57 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 🟥 ROBLOX: Doors:
 
 - Here I come
+
+# 🔊 Intro Company Speech:
+
+🧶 Battleblock Theater:
+
+- Best Friends
+
+# 🌐 Global Notification Sounds:
+
+💦 Risk of Rain 2:
+
+- Doll
+
+# ☀️ Mid Day Sounds:
+
+💧 Risk of Rain:
+
+- Difficulty Bell
+
+
+
+# 🔋 Item Charge Sounds:
+
+🎮 Risk of Rain 2:
+
+- UI_3D_printer_process_01
+
+# 💰 Purchase SFX:
+
+🥤 Cuphead:
+
+- store_purchase
+
+# ⌨ Terminal Enter Sounds:
+
+🌟 Brawl Stars:
+
+- rt_start_vo_06
+
+# 🤡 Clownhorn Sounds:
+
+🌟 Brawl Stars:
+
+- 4 Jester Voice Lines
+
+# 🧸 PlushieSqueeze Sounds:
+
+🌟 Brawl Stars:
+
+- 4 Gus Voice Lines
+
 
 👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)
 

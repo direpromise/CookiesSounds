@@ -1,5 +1,8 @@
 # 🍪 [WORKS WITH v47 & v49] Cookies Sounds - Client-Side Friendly, Vanilla Friendly 🍪
 
+
+Optimized and lightweight! ⚡
+
 This mod serves as a complementary audio expansion for the **Cookies Client Modpack** however feel free to use it independently!
 
 I plan to add more music/SFX into this mod from all sorts of games & movies, if you have a suggestion, please feel free to suggest it in our discord server!
@@ -15,7 +18,7 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - More Dropship music. 🤑
 - More Ship Eject (fired) Music. 😭
 
-# 👇 Currently added 👇
+# 👇 Currently added 👇 [1.1.0]
 
 # 🎵 Ambiance Music1:
 
@@ -107,6 +110,19 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Sprout Start #3
 - Sprout Lead #1
 
+# 🔊 Intro Company Speech:
+
+🧶 Battleblock Theater:
+
+- Best Friends
+
+# 🌐 Dangerous Mood Ambience Sounds:
+
+🎶 Buckshot Roulette:
+
+- Techno Techno
+
+
 # 🛎 Company Bell:
 
 🎶 Misc:
@@ -122,6 +138,13 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 ⭐ Brawl Stars:
 
 - R-T Lead #8
+
+# 🎯 Reached Quota SFX:
+
+🧟‍♂️ Left 4 Dead:
+
+- themonsterswithout
+- themonsterswithout-l4d1
 
 # 👻👧 Ghost Girl:
 
@@ -141,17 +164,24 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 - La Foule by Édith Piaf [RARE]
 
+# 🤖 Robot Toy Cheer Sounds:
+
+🌟 Brawl Stars:
+
+- R-T Voice Lines
+
 # 🏃‍♀️ Escape Music:
 
 🟥 ROBLOX: Doors:
 
 - Here I come
 
-# 🔊 Intro Company Speech:
+# 🎺 Record Player Jazz Music:
 
-🧶 Battleblock Theater:
+🧟‍♂️✌ Left 4 Dead:
 
-- Best Friends
+- The Saints Will Never Come
+
 
 # 🌐 Global Notification Sounds:
 
@@ -172,6 +202,10 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 🎮 Risk of Rain 2:
 
 - UI_3D_printer_process_01
+
+🏮 Team Fortress 2:
+
+- My edit of tf2 hologram sounds
 
 # 💰 Purchase SFX:
 
@@ -196,6 +230,24 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 🌟 Brawl Stars:
 
 - 4 Gus Voice Lines
+
+# 🎁 Gift Box Open Sounds:
+
+🎮 Team Fortress 2:
+
+- 25 happpy_birthday sounds
+
+# 🎃 Jack-o-Lantern Hit Sounds:
+
+🎮 Team Fortress 2:
+
+- 3 cat sounds
+
+# 💥 Thumper Sounds:
+
+🧟‍♂️✌ Left 4 Dead:
+
+- 1 charger bacterias
 
 
 👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)

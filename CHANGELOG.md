@@ -1,6 +1,20 @@
+# <span style="color:orange">Cookies Sounds 1.1.0</span>
+
+- Updated CustomSounds (big thanks to them and their amazing work, fixed a bunch of issues!)
+- Added Reached Quota SFX: 2 Sounds, themonsterswithout & themonsterswithout-l4d1 (Left 4 Dead)
+- Added Record Player Jazz Music: The Saints Will Never Come (Left 4 Dead)
+- Added Item Charge Sounds: My edit of tf2 hologram sounds (Team Fortress 2)
+- Added Gift Box Open Sounds: 25 happpy_birthday sounds (Team Fortress 2)
+- Added Jack-o-Lantern Hit Sounds: 3 cat sounds (Team Fortress 2) 
+- Added Thumper Sounds: 1 charger bacterias (Left 4 Dead)
+- Added DangerousMoodAmbience Sounds: Techno Techno (Buckshot Roulette)
+- Added Robot Toy Cheer Sounds: R-T Voice Lines (Brawl Stars)
+- In summary, added a bunch of new sounds, tweaked a few, patched % chances, and many more background changes!
+- Updated README.md
+
 # <span style="color:orange">Cookies Sounds 1.0.9</span>
 
-- **PLEASE: delete old files from old version of this mod, or simply create a fresh new profile on r2/thunderstore when installing new updates to fix any issues & clean old unused files**
+- **PLEASE: delete old files from old versions of this mod, or simply create a fresh new profile on r2/thunderstore when installing new updates to fix any issues & clean old unused files**
 - For now sound % chance has been tempered with and increased for the worse (worse as in, it may cause some sound overlap occasionally when spamming sounds like Clownhorn), until LCSoundTool fixes this issue (which they will, confirmed, update 1.1.0 will address this)
 - Added Mid Day Sounds: Difficulty Bell (Risk of Rain)
 - Added Global Notification Sounds: Doll (Risk of Rain)

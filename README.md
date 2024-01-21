@@ -18,7 +18,7 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - More Dropship music. 🤑
 - More Ship Eject (fired) Music. 😭
 
-# 👇 Currently added 👇 [1.1.0]
+# 👇 Currently added 👇 [1.1.2]
 
 # 🎵 Ambiance Music1:
 
@@ -248,6 +248,18 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 🧟‍♂️✌ Left 4 Dead:
 
 - 1 charger bacterias
+
+# 🎵 Apparatus Music:
+
+🧟‍♂️ Dying Light:
+
+- 5 Bozak Talk Sounds
+
+# 🎶 Menu Music:
+
+🟥 ROBLOX: Doors:
+
+- Dawn of the Doors
 
 
 👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)

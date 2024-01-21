@@ -257,6 +257,12 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 # 🎶 Menu Music:
 
+🃏 Inscryption:
+
+- The Temple of Dead
+- The Temple of Technology
+- Long Forgotten Monuments
+
 🟥 ROBLOX: Doors:
 
 - Dawn of the Doors

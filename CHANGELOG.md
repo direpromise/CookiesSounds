@@ -1,8 +1,15 @@
+# Cookies Sounds 1.1.3
+
+- tweaked percentage of menu music and fixed some stuff relating to it
+- Increased chances of SpringWobble vineBoom
+- Increased volume of Voice Cry Witches
+- Fixed some audio files not playing due to update
+- Updated README.md
+
 # Cookies Sounds 1.1.2
 
 - Added Apparatus Music: 5 Bozak Talk Sounds (Dying Light)
 - Changed HereICome from WAV to ogg audio file type
-- Fixed some audio files not playing due to update
 - Updated README.md
 
 # Cookies Sounds 1.1.1

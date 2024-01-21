@@ -1,3 +1,9 @@
+# Cookies Sounds 1.1.2
+
+- Added Apparatus Music: 5 Bozak Talk Sounds (Dying Light)
+- Changed HereICome from WAV to ogg audio file type
+- Fixed some audio files not playing due to update
+
 # Cookies Sounds 1.1.1
 
 - Added Menu Music: Dawn of the Doors - Doors (ROBLOX)

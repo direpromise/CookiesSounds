@@ -1,0 +1,22 @@
+{
+    "comment": "An addon script that plays music when you take the Apparatus. This script is designed to be used with the Default script",
+    "isAddon": true,
+    "volumeGroups": [],
+    "scriptEvents": [
+        {
+            "comment": "Plays music when you take the Apparatus",
+			"scriptEventType": "PlayMusic",
+            "gameEventType": "ApparatusTaken",
+			"overlapHandling": "OverrideTag",
+			"tag": "EscapeMusic",
+            "conditions": [],
+            "musicNames": [
+                "Bozak-Talk-01.ogg",
+                "Bozak-Talk-02.ogg",
+                "Bozak-Talk-03.ogg",
+                "Bozak-Talk-04.ogg",
+                "Bozak-Talk-05.ogg"
+            ]
+        }
+    ]
+}

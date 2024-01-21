@@ -87,7 +87,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "HereICome"
+                "HereICome.ogg"
             ]
         },
         {
@@ -98,7 +98,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "HereICome"
+                "HereICome.ogg"
             ]
         },
         {

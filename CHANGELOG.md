@@ -3,6 +3,7 @@
 - Added Apparatus Music: 5 Bozak Talk Sounds (Dying Light)
 - Changed HereICome from WAV to ogg audio file type
 - Fixed some audio files not playing due to update
+- Updated README.md
 
 # Cookies Sounds 1.1.1
 

@@ -1,3 +1,8 @@
+# Cookies Sounds 1.1.5
+
+
+- Added Company Intro Speech Sounds: Custom-Made Sound (Portal)
+
 # Cookies Sounds 1.1.4
 
 - Added Company Intro Speech Sounds: Doubletap (Black Ops Zombies)

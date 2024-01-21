@@ -1,4 +1,19 @@
-# <span style="color:orange">Cookies Sounds 1.1.0</span>
+# Cookies Sounds 1.1.1
+
+- Added Menu Music: Dawn of the Doors - Doors (ROBLOX)
+- Created a master script (oggSpawner) that converts and optimizes audio files for me c:
+- Optimized and compressed a bunch of audio files (not complete)
+- Compressed Landing Sounds
+- Compressed Ambiance Music
+- Compressed Dropship Music
+- Compressed Deadline Alarms
+- Compressed menu music
+- Reduced file size
+- No quality loss
+- No quantity loss
+
+
+# Cookies Sounds 1.1.0
 
 - Updated CustomSounds (big thanks to them and their amazing work, fixed a bunch of issues!)
 - Added Reached Quota SFX: 2 Sounds, themonsterswithout & themonsterswithout-l4d1 (Left 4 Dead)

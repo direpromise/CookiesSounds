@@ -116,9 +116,19 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 - Best Friends
 
+🧟‍♀️ COD ZOMBIES:
+
+- Doubletap
+- Juggernog
+- Mule Kick
+- Widows Wine
+- Quick Revive
+- Speed Cola
+- Shadow Man Voice Lines
+
 # 🌐 Dangerous Mood Ambience Sounds:
 
-🎶 Buckshot Roulette:
+🧥 Buckshot Roulette:
 
 - Techno Techno
 

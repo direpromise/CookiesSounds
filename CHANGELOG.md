@@ -1,3 +1,15 @@
+# Cookies Sounds 1.1.4
+
+- Added Company Intro Speech Sounds: Doubletap (Black Ops Zombies)
+- Added Company Intro Speech Sounds: Juggernog (Black Ops Zombies)
+- Added Company Intro Speech Sounds: Mule Kick (Black Ops Zombies)
+- Added Company Intro Speech Sounds: Widows Wine (Black Ops Zombies)
+- Added Company Intro Speech Sounds: Quick Revive (Black Ops Zombies)
+- Added Company Intro Speech Sounds: Speed Cola (Black Ops Zombies)
+- Added Company Intro Speech Sounds: Shadow Man Voice Lines [WIP] (Black Ops Zombies)
+- Updated README.md
+
+
 # Cookies Sounds 1.1.3
 
 - tweaked percentage of menu music and fixed some stuff relating to it

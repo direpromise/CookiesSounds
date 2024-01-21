@@ -18,7 +18,7 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - More Dropship music. 🤑
 - More Ship Eject (fired) Music. 😭
 
-# 👇 Currently added 👇 [1.1.2]
+# 👇 Currently added 👇 [1.1.5]
 
 # 🎵 Ambiance Music1:
 
@@ -111,6 +111,20 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Sprout Lead #1
 
 # 🔊 Intro Company Speech:
+
+🔄 Portal:
+
+- Portal SFX (Custom Made 🍪)
+
+🧟‍♀️ COD ZOMBIES:
+
+- Doubletap
+- Juggernog
+- Mule Kick
+- Widows Wine
+- Quick Revive
+- Speed Cola
+- Shadow Man Voice Lines [WIP]
 
 🧶 Battleblock Theater:
 

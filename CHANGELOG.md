@@ -1,3 +1,10 @@
+# Cookies Sounds 1.1.6
+
+- Please install mod/modpacks on a new profile, way too often people do not do this, R2modman and Thunderstore do NOT clean cache properly unless you explicity do so, so then conflicts and issues happen.
+- Fixed Doors Menu music
+- Fixed Apparatus Music
+- Added Jester Sounds: Free Bird (mod was not working correctly so I made my own version)
+
 # Cookies Sounds 1.1.5
 
 - Added Company Intro Speech Sounds: Custom-Made Sound (Portal)

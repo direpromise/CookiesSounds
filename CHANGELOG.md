@@ -1,3 +1,7 @@
+# Cookies Sounds 1.1.7
+
+- Removed Jester Sounds
+
 # Cookies Sounds 1.1.6
 
 - Please install mod/modpacks on a new profile, way too often people do not do this, R2modman and Thunderstore do NOT clean cache properly unless you explicity do so, so then conflicts and issues happen.

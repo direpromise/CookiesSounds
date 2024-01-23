@@ -18,7 +18,7 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - More Dropship music. 🤑
 - More Ship Eject (fired) Music. 😭
 
-# 👇 Currently added 👇 [1.1.5]
+# 👇 Currently added 👇 [1.1.8]
 
 # 🎵 Ambiance Music1:
 

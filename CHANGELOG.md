@@ -1,3 +1,8 @@
+# Cookies Sounds 1.1.9
+
+- Added Menu Music: Depression Shop (The Binding of Isaac)
+- Added Menu Music: Forgotten Lullaby [Secret Room] (The Binding of Isaac)
+
 # Cookies Sounds 1.1.8
 
 - Added RecordPlayerJazz Sounds: Pigstep (Minecraft)

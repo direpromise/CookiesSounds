@@ -1,3 +1,10 @@
+# Cookies Sounds 1.1.8
+
+- Added RecordPlayerJazz Sounds: Pigstep (Minecraft)
+- Reduced size of GlobalNotificationSFX-Doll
+- Reduced size of RecordPlayerJazz-thesaintswillnevercome
+- Reduced size of IntroCompanySpeech-PortalOC
+
 # Cookies Sounds 1.1.7
 
 - Removed Jester Sounds

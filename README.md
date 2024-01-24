@@ -17,8 +17,9 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Ship Landing "Intro" like music. 🤩
 - More Dropship music. 🤑
 - More Ship Eject (fired) Music. 😭
+- AND MUCH MORE!
 
-# 👇 Currently added 👇 [1.1.8]
+# 👇 Currently added 👇 [1.2.0]
 
 # 🎵 Ambiance Music1:
 
@@ -112,19 +113,13 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 # 🔊 Intro Company Speech:
 
+🎞 Black Mesa:
+
+- announcer_login
+
 🔄 Portal:
 
 - Portal SFX (Custom Made 🍪)
-
-🧟‍♀️ COD ZOMBIES:
-
-- Doubletap
-- Juggernog
-- Mule Kick
-- Widows Wine
-- Quick Revive
-- Speed Cola
-- Shadow Man Voice Lines [WIP]
 
 🧶 Battleblock Theater:
 
@@ -165,6 +160,20 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 # 🎯 Reached Quota SFX:
 
+🌱🧟‍♂️ Planets vs. Zombies:
+
+- pvzwin
+
+🚀 Black Mesa:
+
+- announcer_plr_finalstageoutcome01
+- announcer_success
+- votesuccessOC
+- vote_success
+- duel_challenge_accepted
+- announcer_secure
+- announcer_victory
+
 🧟‍♂️ Left 4 Dead:
 
 - themonsterswithout
@@ -178,15 +187,15 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 🐻 FNAF:
 
-- Clocks Chimes [25%]
+- Clocks Chimes
 
 # 📞 Phone Scrap:
 
 🎶 Misc: 
 
-- World is Spinning (Intro) [RARE]
+- World is Spinning (Intro)
 
-- La Foule by Édith Piaf [RARE]
+- La Foule by Édith Piaf
 
 # 🤖 Robot Toy Cheer Sounds:
 
@@ -237,6 +246,10 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 # 💰 Purchase SFX:
 
+💸 Misc:
+
+- cashRegister
+
 🥤 Cuphead:
 
 - store_purchase
@@ -253,19 +266,19 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 - 4 Jester Voice Lines
 
-# 🧸 PlushieSqueeze Sounds:
+# 🧸 Plushie Sounds:
 
 🌟 Brawl Stars:
 
 - 4 Gus Voice Lines
 
-# 🎁 Gift Box Open Sounds:
+# 🎁 Gift Box Sounds:
 
 🎮 Team Fortress 2:
 
 - 25 happpy_birthday sounds
 
-# 🎃 Jack-o-Lantern Hit Sounds:
+# 🎃 Jack-o-Lantern Sounds:
 
 🎮 Team Fortress 2:
 
@@ -277,6 +290,14 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 - 1 charger bacterias
 
+# 🌿 Bracken Sounds:
+
+🧟‍♂️✌ Left 4 Dead:
+
+- hunter bacterias
+- hunter bacteria
+
+
 # 🎵 Apparatus Music:
 
 🧟‍♂️ Dying Light:
@@ -285,10 +306,18 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 # 🎶 Menu Music:
 
+⛪ Half-Life 2:
+
+- CP Violation
+
+😭 The Binding of Isaac:
+
+- Depression Shop
+- Forgotten Lullaby (Secret Room)
+
 🃏 Inscryption:
 
 - The Temple of Dead
-- The Temple of Technology
 - Long Forgotten Monuments
 
 🟥 ROBLOX: Doors:

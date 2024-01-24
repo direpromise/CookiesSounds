@@ -71,7 +71,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "HereICome"
+                "HereICome.ogg"
             ]
         },
         {
@@ -87,7 +87,12 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "HereICome.ogg"
+                "HereICome.ogg",
+                "Bozak-Talk-01.ogg",
+                "Bozak-Talk-02.ogg",
+                "Bozak-Talk-03.ogg",
+                "Bozak-Talk-04.ogg",
+                "Bozak-Talk-05.ogg"
             ]
         },
         {
@@ -98,7 +103,12 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "HereICome.ogg"
+                "HereICome.ogg",
+                "Bozak-Talk-01.ogg",
+                "Bozak-Talk-02.ogg",
+                "Bozak-Talk-03.ogg",
+                "Bozak-Talk-04.ogg",
+                "Bozak-Talk-05.ogg"
             ]
         },
         {

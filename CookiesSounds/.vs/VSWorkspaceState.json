@@ -3,6 +3,8 @@
     "",
     "\\bin",
     "\\bundles",
+    "\\obj",
+    "\\obj\\Release",
     "\\Patches",
     "\\Properties",
     "\\Sounds",

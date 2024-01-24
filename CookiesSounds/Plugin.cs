@@ -17,7 +17,7 @@ namespace CookiesSounds
 
         private const string modGUID = "ChocolateCookies.CookiesSounds";
         private const string modName = "CookiesSounds";
-        private const string modVersion = "1.0.4";
+        private const string modVersion = "1.0.6";
 
         private readonly Harmony _harmony = new Harmony(modGUID);
 

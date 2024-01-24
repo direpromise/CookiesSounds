@@ -1,3 +1,27 @@
+# Cookies Sounds 1.2.0
+
+- Added Intro Company Speech Sounds: announcer_login (Black Mesa)
+- Added Reached Quota SFX: pvzwin (Planets vs. Zombies)
+- Added Reached Quota SFX: announcer_plr_finalstageoutcome01 (Black Mesa)
+- Added Reached Quota SFX: announcer_success (Black Mesa)
+- Added Reached Quota SFX: votesuccessOC (Misc)
+- Added Reached Quota SFX: impressive (Quake)
+- Added Reached Quota SFX: vote_success (Team Fortress 2)
+- Added Reached Quota SFX: duel_challenge_accepted (Misc)
+- Added Reached Quota SFX: announcer_secure (Black Mesa)
+- Added Reached Quota SFX: announcer_victory (Black Mesa)
+- Added Reached Quota SFX: announcer_success (Black Mesa)
+- Added Bracken Sounds: hunter bacterias (Left 4 Dead)
+- Added Bracken Sounds: hunter bacteria (Left 4 Dead)
+- Added PurchaseSFX Sounds: cashRegister (Misc)
+- Added Puffer Sounds: holy moly (Misc)
+- Added Puffer Sounds: King Crying (Clash Royale)
+- Added Puffer Sounds: King Laughing (Clash Royale)
+- Added Menu Music: Main Menu (Left 4 Dead 2)
+- Added Menu Music: CP Violation (Half-Life 2)
+- Removed Menu Music: The Temple of Technology (Inscryption)
+- Updated README.md
+
 # Cookies Sounds 1.1.9
 
 - Added Menu Music: Depression Shop (The Binding of Isaac)

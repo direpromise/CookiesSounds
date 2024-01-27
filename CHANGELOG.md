@@ -1,3 +1,9 @@
+# Cookies Sounds 1.2.2
+
+- Tweaked Terminal Sounds Percent chances
+- Fixed Escape Music for the Apparatus (hopefully)
+- todo: adding more music to Escape Music
+
 # Cookies Sounds 1.2.1
 
 - Added Item Charge Sounds: suitcharge (Half-Life)

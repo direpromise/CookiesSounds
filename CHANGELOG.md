@@ -1,3 +1,13 @@
+# Cookies Sounds 1.2.3
+
+- Added Landing Sounds: 4 New Cosmodrome Round Starts (COD Zombies)
+- Added Dropship Sounds: Mulekick V1 Jingle (COD Zombies)
+- Added Dropship Sounds: Doubletap V1 Jingle (COD Zombies)
+- Added Dropship Sounds: Staminup V1 Jingle (COD Zombies)
+- Added Dropship Sounds: Tombstone V1 Jingle (COD Zombies)
+- Adjusted all landing sounds to be less loud
+- big things are coming
+
 # Cookies Sounds 1.2.2
 
 - Tweaked Terminal Sounds Percent chances

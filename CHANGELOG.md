@@ -1,3 +1,12 @@
+# Cookies Sounds 1.2.1
+
+- Added Item Charge Sounds: suitcharge (Half-Life)
+- Added AlertHUD Sounds: radiation_detected (Half-Life)
+- Added Critical Injury Sounds: (Half-Life)
+- Added Metal Door Sounds: (Left 4 Dead)
+- Added Menu Music: Bracken, Right Behind You (My Creation)
+- Edited Dawns of the Doors Menu Music to better fit the game vibe while also reducing file size greatly
+
 # Cookies Sounds 1.2.0
 
 - Added Intro Company Speech Sounds: announcer_login (Black Mesa)

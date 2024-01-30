@@ -16,7 +16,6 @@
 - Added Turret Sounds: Sentry Alerted (Team Fortress 2)
 - Added Turret Sounds: Sentry Active (Team Fortress 2)
 
-
 # Cookies Sounds 1.2.3
 
 - Added Landing Sounds: 4 New Cosmodrome Round Starts (COD Zombies)

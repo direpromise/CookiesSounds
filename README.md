@@ -389,4 +389,4 @@ note: as i'm working on other projects while still maintaining this mod, I will 
 
 ## 💬 Support or Contact
 
-For inquiries, suggestions, or assistance, please refer to the [main modpack repository](https://github.com/direpromise/CookiesVisionModpack) or [Our Discord Server](https://discord.gg/7r7RBpybV.
+For inquiries, suggestions, or assistance, please refer to the [main modpack repository](https://github.com/direpromise/CookiesSounds) or [Our Discord Server](https://discord.gg/7r7RBpybV).

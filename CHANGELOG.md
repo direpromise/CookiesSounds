@@ -1,3 +1,22 @@
+# Cookies Sounds 1.3.0
+
+- Added Escape Music: Substantial (Unused) (Instrumental) (Friday Night Funkin' - vs. Sonic.EXE Mod)
+- Added Escape Music: Forestall Desire (Unused) (Instrumental) (Friday Night Funkin' - vs. Sonic.EXE Mod)
+- Added Escape Music: Found You (Unused) (Instrumental) (Friday Night Funkin' - vs. Sonic.EXE Mod)
+- Added Escape Music: Perdition (Unused) (Instrumental) (Friday Night Funkin' - vs. Sonic.EXE Mod)
+- Added Reached Quota SFX: AWOLNATION (CSGO)
+- Added Reached Quota SFX: Java Havana Funkaloo (CSGO)
+- Added Reached Quota SFX: Diamonds (CSGO)
+- Added Reached Quota SFX: Neo Noir (CSGO)
+- Added Reached Quota SFX: All For Dust (CSGO)
+- Added Reached Quota SFX: Desert Fire (CSGO)
+- Added Reached Quota SFX: Total Domination (CSGO)
+- Added Reached Quota SFX: Eye of the Dragon (CSGO)
+- Added Turret Sounds: Alert! (Metal Gear Solid)
+- Added Turret Sounds: Sentry Alerted (Team Fortress 2)
+- Added Turret Sounds: Sentry Active (Team Fortress 2)
+
+
 # Cookies Sounds 1.2.3
 
 - Added Landing Sounds: 4 New Cosmodrome Round Starts (COD Zombies)

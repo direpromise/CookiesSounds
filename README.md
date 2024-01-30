@@ -19,7 +19,10 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - More Ship Eject (fired) Music. 😭
 - AND MUCH MORE!
 
-# 👇 Currently added 👇 [1.2.0]
+# 👇 Currently added 👇 [1.3.0]
+
+⚠ LIST IS NOT FULLY UPDATED! DOWNLOAD THE MOD AND ENJOY DISCOVERING NEW SOUNDS EVERY PLAYTHROUGH!
+note: as i'm working on other projects while still maintaining this mod, I will not be focusing on updating this list, this mod adds over 200+ custom sounds, and more is on the way, so focusing on updating this list constantly would be a big drain of time for me.
 
 # 🎵 Ambiance Music1:
 
@@ -53,12 +56,18 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 - Shadows Of Evil (7 Round Changes)
 
+- Cosmodrome (4 Round Changes)
+
 # 🚀💸 Dropship:
 
 🧟‍♀️ COD ZOMBIES:
 
 - Firesale Jingle
 - Alternate Firesale Jingle
+- Mulekick V1 Jingle
+- Doubletap V1 Jingle
+- Staminup V1 Jingle
+- Tombstone V1 Jingle
 
 🌠 Earthbound:
 
@@ -144,9 +153,9 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 # 🛎 Company Bell:
 
-🎶 Misc:
+# 🖐 OC:
 
-- Harmonic Bell Sound (OC)
+- Harmonic Bell Sound
 
 ⭐ Brawl Stars:
 
@@ -179,6 +188,17 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - themonsterswithout
 - themonsterswithout-l4d1
 
+👮‍♂️ CSGO: 
+
+- AWOLNATION
+- Java Havana Funkaloo
+- Diamonds
+- Neo Noir
+- All For Dust
+- Desert Fire
+- Total Domination
+- Eye of the Dragon
+
 # 👻👧 Ghost Girl:
 
 🃏 Inscryption:
@@ -208,6 +228,14 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 🟥 ROBLOX: Doors:
 
 - Here I come
+
+# 💃 Friday Night Funkin:
+
+- Substantial (Unused) (Instrumental)
+- Forestall Desire (Unused) (Instrumental)
+- Found You (Unused) (Instrumental)
+- Perdition (Unused) (Instrumental)
+
 
 # 🎺 Record Player Jazz Music:
 
@@ -255,6 +283,10 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - store_purchase
 
 # ⌨ Terminal Enter Sounds:
+
+# 🎶 Misc:
+
+- Unused N*ntendo Sounds
 
 🌟 Brawl Stars:
 
@@ -306,6 +338,10 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 
 # 🎶 Menu Music:
 
+# 🖐 OC:
+
+- Bracken, Right Behind You
+
 ⛪ Half-Life 2:
 
 - CP Violation
@@ -325,6 +361,14 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 - Dawn of the Doors
 
 
+## Mods:
+
+👉 [Cookies Sounds 🎶](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/)
+
+👉 [Cookies Presents 🎁](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesPresents/)
+
+## Modpacks:
+
 👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)
 
 👉 [Cookies Vision 👀 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
@@ -338,8 +382,6 @@ I plan to add more music/SFX into this mod from all sorts of games & movies, if 
 👉 [Cookies MoreCompany 💃 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMoreCompany/)
 
 👉 [Cookies Schizophrenia 😨 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSchizophrenia/)
-
----
 
 ## 👥 Contributors
 

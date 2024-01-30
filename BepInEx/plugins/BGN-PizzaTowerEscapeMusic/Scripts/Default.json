@@ -71,7 +71,13 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "HereICome.ogg"
+                "HereICome.ogg",
+                "ForestallDesire.ogg",
+                "FoundYou.ogg",
+                "Perdition.ogg",
+                "Substantial.ogg",
+                "ItsPizzaTime.ogg",
+                "TheDeathThatIDeservioli.ogg"
             ]
         },
         {
@@ -88,6 +94,12 @@
             "tag": "EscapeMusic",
             "musicNames": [
                 "HereICome.ogg",
+                "ForestallDesire.ogg",
+                "FoundYou.ogg",
+                "Perdition.ogg",
+                "Substantial.ogg",
+                "ItsPizzaTime.ogg",
+                "TheDeathThatIDeservioli.ogg",
                 "Bozak-Talk-01.ogg",
                 "Bozak-Talk-02.ogg",
                 "Bozak-Talk-03.ogg",
@@ -104,11 +116,12 @@
             "tag": "EscapeMusic",
             "musicNames": [
                 "HereICome.ogg",
-                "Bozak-Talk-01.ogg",
-                "Bozak-Talk-02.ogg",
-                "Bozak-Talk-03.ogg",
-                "Bozak-Talk-04.ogg",
-                "Bozak-Talk-05.ogg"
+                "ForestallDesire.ogg",
+                "FoundYou.ogg",
+                "Perdition.ogg",
+                "Substantial.ogg",
+                "ItsPizzaTime.ogg",
+                "TheDeathThatIDeservioli.ogg"
             ]
         },
         {

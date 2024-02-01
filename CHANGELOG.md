@@ -1,3 +1,7 @@
+# Cookies Sounds 1.3.1
+
+- Updated LCSoundTool
+
 # Cookies Sounds 1.3.0
 
 - Added Escape Music: Substantial (Unused) (Instrumental) (Friday Night Funkin' - vs. Sonic.EXE Mod)

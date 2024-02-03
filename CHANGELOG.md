@@ -1,3 +1,27 @@
+# Cookies Sounds 1.4.0
+
+- Added Spider Sounds: SJ-vox1 (Apex Leg)
+- Added Spider Sounds: SJ-vox2 (Apex Leg)
+- Added Spider Sounds: SJ-vox3 (Apex Leg)
+- Added Spider Sounds: SJ-vox4 (Apex Leg)
+- Added Purchase Sounds: cash-register_01 (Juicy Realm)
+- Added Purchase Sounds: cash-register_02 (Juicy Realm)
+- Added Purchase Sounds: cash-register_03 (Juicy Realm)
+- Added Death Sounds: Head Splatter (CULTIST)
+- Added Death Sounds: sndSplatter01 (CULTIST)
+- Added Death Sounds: sndSplatter02 (CULTIST)
+- Added Death Sounds: sndSplatter03 (CULTIST)
+- Added Death Sounds: sndSplatter04 (CULTIST)
+- Added Global Notification Sounds: sndSecretFound (CULTIST)
+- Added Shotgun Sounds: RR1 (Juicy Realm)
+- Added Shotgun Sounds: RR2 (Juicy Realm)
+- Added Shotgun Sounds: RR3 (Juicy Realm)
+- Added Shotgun Sounds: sndShotgunShellDrop01 (CULTIST)
+- Added Shotgun Sounds: sndShotgunShellDrop02 (CULTIST)
+- Fixed chances of fairground germs playing at entrance
+- Fixed chances of Critical Injury sounds
+- Adjusted chances of clownhorn sounds playing
+
 # Cookies Sounds 1.3.1
 
 - Updated LCSoundTool

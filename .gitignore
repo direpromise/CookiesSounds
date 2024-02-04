@@ -54,4 +54,10 @@ dkms.conf
 
 # Music
 
-.mp3
+*.mp3
+*.wav
+*.lnk
+
+# Misc
+
+*.sln

@@ -1,3 +1,7 @@
+# Cookies Sounds 1.4.1
+
+- Added Phone Sounds: ay ay ay I'm your little butterfly (Misc)
+
 # Cookies Sounds 1.4.0
 
 - Added Spider Sounds: SJ-vox1 (Apex Leg)
